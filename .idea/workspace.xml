@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fb043d1-d090-4cf4-bdea-e84f29e0fec2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtokenauth/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jwtokenauth/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="-318">
               <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding>
                 <element signature="e#1#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -177,7 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568039705392</updated>
-      <workItem from="1568039715349" duration="8105000" />
+      <workItem from="1568039715349" duration="9096000" />
     </task>
     <task id="LOCAL-00001" summary="added a urls file to the core application">
       <created>1568067141488</created>
@@ -207,25 +215,39 @@
       <option name="project" value="LOCAL" />
       <updated>1568067508397</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="configuration done in settings to include the utils.py configurations of the jwt">
+      <created>1568067703422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568067703422</updated>
+    </task>
+    <task id="LOCAL-00006" summary="beautification fo the app">
+      <created>1568067895459</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568067895459</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8105000" />
+    <option name="totallyTimeSpent" value="9096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.1633888" />
+      <window_info id="Structure" order="1" sideWeight="0.5014493" side_tool="true" visible="true" weight="0.1633888" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.18985507" />
+      <window_info anchor="bottom" id="Version Control" weight="0.18985507" />
       <window_info anchor="bottom" id="RNConsole" weight="0.3289855" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" x="0" y="23" width="1366" height="745" id="Terminal" maximized="true" type="WINDOWED" visible="true" weight="0.3289855" />
+      <window_info anchor="bottom" x="22" y="270" width="1322" height="227" id="Terminal" maximized="true" type="WINDOWED" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -249,7 +271,9 @@
     <MESSAGE value="added an include for core application urls.py in the main urls.py file" />
     <MESSAGE value="added a utils file to handle requests f sending user data once the user logs in" />
     <MESSAGE value="configured utils.py to add a new ‘user’ field with the user’s serialized data when a token is generated" />
-    <option name="LAST_COMMIT_MESSAGE" value="configured utils.py to add a new ‘user’ field with the user’s serialized data when a token is generated" />
+    <MESSAGE value="configuration done in settings to include the utils.py configurations of the jwt" />
+    <MESSAGE value="beautification fo the app" />
+    <option name="LAST_COMMIT_MESSAGE" value="beautification fo the app" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/core/views.py">
@@ -289,20 +313,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="138" selection-start-line="138" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="-318">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding>
             <element signature="e#1#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
