@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb043d1-d090-4cf4-bdea-e84f29e0fec2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1fb043d1-d090-4cf4-bdea-e84f29e0fec2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="432">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -185,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568039705392</updated>
-      <workItem from="1568039715349" duration="9096000" />
+      <workItem from="1568039715349" duration="10905000" />
     </task>
     <task id="LOCAL-00001" summary="added a urls file to the core application">
       <created>1568067141488</created>
@@ -233,11 +231,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9096000" />
+    <option name="totallyTimeSpent" value="10905000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.1633888" />
@@ -247,7 +244,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.18985507" />
       <window_info anchor="bottom" id="RNConsole" weight="0.3289855" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" x="22" y="270" width="1322" height="227" id="Terminal" maximized="true" type="WINDOWED" weight="0.3289855" />
+      <window_info active="true" anchor="bottom" x="0" y="23" width="1366" height="745" id="Terminal" maximized="true" type="WINDOWED" visible="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -325,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="432">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
