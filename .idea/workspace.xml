@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fb043d1-d090-4cf4-bdea-e84f29e0fec2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/core/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/serializers.py" afterDir="false" />
-    </list>
+    <list default="true" id="1fb043d1-d090-4cf4-bdea-e84f29e0fec2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +15,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/core/serializers.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="389">
+                <state relative-caret-position="677">
                   <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
                   <folding>
                     <element signature="e#0#38#0" expanded="true" />
@@ -54,7 +52,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/core/backends.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="581">
+                <state relative-caret-position="485">
                   <caret line="90" column="28" lean-forward="true" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
                   <folding>
                     <element signature="e#0#10#0" expanded="true" />
@@ -180,7 +178,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568039705392</updated>
       <workItem from="1568039715349" duration="11223000" />
-      <workItem from="1568225377139" duration="3755000" />
+      <workItem from="1568225377139" duration="3993000" />
     </task>
     <task id="LOCAL-00001" summary="added a urls file to the core application">
       <created>1568067141488</created>
@@ -228,13 +226,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14978000" />
+    <option name="totallyTimeSpent" value="15216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="1126" y="62" width="219" height="649" id="Project" order="0" sideWeight="0.49710146" type="FLOATING" visible="true" weight="0.16565809" />
+      <window_info content_ui="combo" x="1113" y="28" width="219" height="649" id="Project" order="0" sideWeight="0.49710146" type="FLOATING" visible="true" weight="0.16565809" />
       <window_info id="Structure" order="1" sideWeight="0.5028986" side_tool="true" weight="0.16490166" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,8 +246,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.18985507" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="RNConsole" order="10" weight="0.3289855" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" x="0" y="23" width="1366" height="715" id="Terminal" order="12" type="WINDOWED" visible="true" weight="0.3289855" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.04347826" />
+      <window_info anchor="bottom" x="0" y="23" width="1366" height="715" id="Terminal" order="12" type="WINDOWED" weight="0.3289855" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -369,7 +367,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/backends.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
+        <state relative-caret-position="485">
           <caret line="90" column="28" lean-forward="true" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
@@ -379,7 +377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/core/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
+        <state relative-caret-position="677">
           <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
