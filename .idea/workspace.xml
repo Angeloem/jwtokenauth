@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fb043d1-d090-4cf4-bdea-e84f29e0fec2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/backends.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jwtokenauth/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/jwtokenauth/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/serializers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +14,18 @@
     <splitter split-orientation="horizontal" split-proportion="0.505295">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/core/serializers.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="389">
+                  <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+                  <folding>
+                    <element signature="e#0#38#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/core/models.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -29,11 +38,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="432">
-                  <caret line="123" column="43" selection-start-line="123" selection-start-column="43" selection-end-line="125" selection-end-column="62" />
+                <state relative-caret-position="480">
+                  <caret line="125" column="60" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="60" />
                 </state>
               </provider>
             </entry>
@@ -71,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/core/serializers.py" />
         <option value="$PROJECT_DIR$/core/views.py" />
         <option value="$PROJECT_DIR$/core/urls.py" />
         <option value="$PROJECT_DIR$/jwtokenauth/urls.py" />
@@ -79,6 +87,7 @@
         <option value="$PROJECT_DIR$/core/models.py" />
         <option value="$PROJECT_DIR$/core/backends.py" />
         <option value="$PROJECT_DIR$/jwtokenauth/settings.py" />
+        <option value="$PROJECT_DIR$/core/serializers.py" />
       </list>
     </option>
   </component>
@@ -171,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568039705392</updated>
       <workItem from="1568039715349" duration="11223000" />
-      <workItem from="1568225377139" duration="3486000" />
+      <workItem from="1568225377139" duration="3755000" />
     </task>
     <task id="LOCAL-00001" summary="added a urls file to the core application">
       <created>1568067141488</created>
@@ -219,13 +228,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14709000" />
+    <option name="totallyTimeSpent" value="14978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="1126" y="62" width="219" height="649" id="Project" order="0" sideWeight="0.49710146" type="FLOATING" weight="0.16565809" />
+      <window_info content_ui="combo" x="1126" y="62" width="219" height="649" id="Project" order="0" sideWeight="0.49710146" type="FLOATING" visible="true" weight="0.16565809" />
       <window_info id="Structure" order="1" sideWeight="0.5028986" side_tool="true" weight="0.16490166" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -240,7 +249,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="RNConsole" order="10" weight="0.3289855" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" x="0" y="23" width="1366" height="715" id="Terminal" maximized="true" order="12" type="WINDOWED" visible="true" weight="0.3289855" />
+      <window_info active="true" anchor="bottom" x="0" y="23" width="1366" height="715" id="Terminal" order="12" type="WINDOWED" visible="true" weight="0.3289855" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -262,13 +271,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="beautification fo the app" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -360,8 +362,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jwtokenauth/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="123" column="43" selection-start-line="123" selection-start-column="43" selection-end-line="125" selection-end-column="62" />
+        <state relative-caret-position="480">
+          <caret line="125" column="60" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="60" />
         </state>
       </provider>
     </entry>
@@ -371,6 +373,16 @@
           <caret line="90" column="28" lean-forward="true" selection-start-line="90" selection-start-column="28" selection-end-line="90" selection-end-column="28" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="91" column="39" selection-start-line="91" selection-start-column="39" selection-end-line="91" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
